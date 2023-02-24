@@ -1,0 +1,1 @@
+Script which creates a lot of folders in azure file shares. Name for folders is geed from file.
